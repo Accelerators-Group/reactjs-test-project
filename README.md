@@ -1,39 +1,24 @@
-# React github test project
+# React github test project - Mit K Patel
 
-## Goal
+## Project goal
 
-Create a small react project using github API with the follow requirements:
++ Create a small project to search and list the repositories.
++ User can add the repositories to the bookmark page.
 
-- Search by name using github api and list repositories.
-- Search username repositories and list them.
-- Bookmark repositories.
-- Page to list bookmarked repositories
-- Search bookmarked repositories
+## Implementation
 
-## UX/UI
++ Here I used the TypeScript and ReactJS to build this project. There are two screens in this project. One is Home page and another is bookmark page.
++ User can search the user by providing the username of the GitHub and they can get the list of repositories.
++ User can also see the details of that repositories such as number of fork, star, supported languages and name of the user.
++ There is a seperate bookmark button to add the repository into bookmark page. User can add multiple repos into bookmark page.
++ There is a dedicated button to re-direct to the bookmark page and in bookmark page user can see the list of bookmark repos URL and search among the list.
 
-Suggested to have at least two pages and one searchbar, everything else is up to you.
+## Technical
 
-## Solution
++ To create this app, I made the Header component for the nav bar, and Home component is for Home page.
++ For the details of the selected repo, I created the RepoDetails component.
++ In the bookmark page, I used the filter function of JavaScript to seach the filter repository.
++ To pass the data from Home page to Navigation page, I used the Link component.
 
-When finished, please create your own branch in github and push to that branch only,
-when done create a Pull Request with `your_branch` -> `master` and request a review from myself `daylonball`.
 
-## Bonus
 
-- use ES6 sintax (arrow functions, destructuring, async/await, etc)
-- some Unit Test
-- Use some state managers
-- Having a nice UI
-- Using common tools for your daily development environment (linterns, code formatting, etc)
-
-## Recomended libraries
-
-- tailwind css
-- redux or recoil
-- styled components
-- prettier
-
-## Comments
-
-- do `npm i` in bash to install deps and `npm run start` to run the project
