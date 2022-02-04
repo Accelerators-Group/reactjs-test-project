@@ -4,9 +4,9 @@
 
 - first card will list repos
 
-+click plus sign to add repos to book mark
++ click plus sign to add repos to book mark
 
-- click bookmark button to chech bookmarks on that page
+- click bookmark button to check bookmarks on that page
 
 - now book mark page will list that book mark
 
