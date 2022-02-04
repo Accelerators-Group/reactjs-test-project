@@ -54,6 +54,9 @@ const Results = (props: any) => {
             </ul>
             <ul className="list-none md:list-disc">
                 <h1 className="font-medium text-black-bold">List of Bookmark</h1>
+                <li className="text-x1 text-black">
+                    {listBookmark}
+                </li>
             </ul>
 
         </div>

@@ -23,7 +23,7 @@ const SearchBar = () => {
     }
     return (
 
-        <div className="flex p-6">
+        <div className="w-2/4 p-6 item-center">
             <div className="p-4 bg-sky-500/50 rounded-xl shadow-lg items-center">
                 <div className="shrink-0">
                 </div>
