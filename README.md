@@ -10,7 +10,7 @@
 
 - now book mark page will list that book mark
 
-# My cool project and above is the ScreenShoof it
+# My cool project and Below is the ScreenShoot it
 
 <img src="/img/ss1.JPG" alt="SS1"/>
 
