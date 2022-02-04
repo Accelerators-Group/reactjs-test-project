@@ -1,11 +1,13 @@
 # React github API test project
 
-## search the username 
+- search the username 
 
-## first card will list repos
+- first card will list repos
 
-## click add button to bookmark that list
++click plus sign to add repos to book mark
 
-## now you can check that to list of bookmark
+- click bookmark button to chech bookmarks on that page
+
+- now book mark page will list that book mark
 
 
